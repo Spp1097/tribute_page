@@ -1,0 +1,71 @@
+.main {
+  width: 100vw;
+  max-width: 95%;
+  border-radius: 10px;
+  margin: auto;
+  background-color: #e5e8e8;
+  font-family: "Exo 2", sans-serif;
+}
+.text-time-line {
+  margin-bottom: 50px;
+}
+#title {
+  text-align: center;
+}
+#title h1 {
+  margin-bottom: 2px;
+  font-size: 40px;
+  padding-top: 25px;
+}
+#title h5 {
+  margin: 15px 0 10px;
+  font-size: 17px;
+  font-weight: normal;
+}
+#tribute-info {
+  width: 100vw;
+  max-width: 70%;
+  /* background-color: #f9e79f; */
+  margin: auto;
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+#img-div {
+  width: 80%;
+  background-color: white;
+  text-align: center;
+  margin: auto;
+}
+#image {
+  max-width: 90%;
+  margin: auto;
+  /* padding-top: 28px; */
+  padding: 20px 10px;
+}
+
+#img-caption {
+  margin: 0px;
+  font-weight: normal;
+  padding-bottom: 15px;
+}
+
+.info {
+  font-size: 20px;
+  padding: 15px 0 15px;
+  text-align: center;
+}
+
+.copy {
+  border-top: 2px solid black;
+  text-align: center;
+  font-size: 15px;
+  padding: 20px 0;
+}
+
+blockquote {
+  margin-top: 12%;
+}
